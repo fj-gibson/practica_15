@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practica_quince_movimiento</string>
+    <string name="aceleracion">Aceleración</string>
+    <string name="a_x">a_x</string>
+    <string name="acelareci_n_x">aceleración a_x</string>
+    <string name="a_y">a_y</string>
+    <string name="acelareci_n_y">Aceleración en a_y</string>
+    <string name="a_z">a_z</string>
+    <string name="aceleraci_n_z">Aceleracion en a_z</string>
+    <string name="a_m_dulo">a módulo</string>
+    <string name="a_m_xima">a máxima</string>
+    <string name="gravedad">Gravedad</string>
+</resources>
